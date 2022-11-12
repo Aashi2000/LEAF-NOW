@@ -47,14 +47,10 @@ I used <a href="https://firebase.google.com/">Firebase OAuth</a> for authenticat
 
 <p align="center">It may be diffrent on your device.</p>
 
-## Code Example/Issues 🔍
-
-If you have any issues, please let me know in the issues section or directly to olafsulich@gmail.com
-
 ## Installation 💾
 
 ```bash
-git clone https://github.com/olafsulich/E-commerce-Plants-Shop.git
+git clone https://github.com/aashi-pradhan/E-commerce-Plants-Shop.git
 npm install
 npm run start
 ```
@@ -72,8 +68,5 @@ Big thanks to Bartosz Szczeciński from React Polska. Bartosz helps me with prob
 
 <a href="https://plants-and-home.netlify.com">https://plants-and-home.netlify.com</a>
 
-## License 🔱
 
-Under license (MIT, Apache etc)
 
-MIT © [Olaf Sulich]()
