@@ -60,10 +60,6 @@ npm run start
 - Email: TestUser@gmail.com
 - Password: TestUser1
 
-## Credits 👏
-
-Big thanks to Bartosz Szczeciński from React Polska. Bartosz helps me with problem during development.
-
 ## Live 📍
 
 <a href="https://plants-and-home.netlify.com">https://plants-and-home.netlify.com</a>
