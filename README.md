@@ -31,9 +31,6 @@ I used <a href="https://firebase.google.com/">Firebase OAuth</a> for authenticat
     <img src="https://i.ibb.co/vVJXwSY/planttttt.png" alt="Screen Shot">
 </p>
 
-<p align="center">
-    <img src="https://i.ibb.co/X8Ch1n2/Screen2.png" alt="Screen Shot">
-</p>
 
 <p align="center">
     <img src="https://i.ibb.co/cvZm0rb/topaste2.png" alt="Screen Shot">
